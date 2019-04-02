@@ -1,6 +1,7 @@
 {
     "name": "kholmes/financialyear",
-    "description": "Helper Functions for Laravel for calculating the current financial year (Start and End)",
+    "description": "Laravel class to get the start and end of a financial year.",
+    "license": "MIT",
     "type": "library",
     "require": {
         "php": "^7.1.3",
